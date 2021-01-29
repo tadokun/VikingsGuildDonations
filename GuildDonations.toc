@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: Guild Donations
+## SavedVariablesPerCharacter: MoneySinceLastVisited
+## Author: Pumpa
+## Version: 0.1
+
+main.lua
